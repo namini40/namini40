@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi I'm Nasser Amini.🇮🇷
 
-<!--
-**namini40/namini40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📦📲 Mobile SDK developer and Flutter Expert at [AdTrace](https://github.com/adtrace)
+<br/>
+👨🏻‍💼 Team lead and Techer
+<br/>
+💙Dart & Flutter💙 + ❤️Java & Android❤️ + 🧡Swift + iOS🧡
+<br/>
+💬 [Ask me anything](https://github.com/namini40/namini40/issues)
 
-Here are some ideas to get you started:
+[![Nasser's GitHub stats](https://github-readme-stats.vercel.app/api?username=namini40&count_private=true&theme=radical)](https://github.com/namini40/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namini40&layout=compact&theme=radical)](https://github.com/namini40/github-readme-stats)
