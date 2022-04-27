@@ -1,4 +1,4 @@
-Hi I'm Nasser Amini.🇮🇷
+Hi I'm Nasser, a self-taught mobile developer from Iran.🇮🇷
 
 📦📲 Mobile SDK developer and Flutter Expert at [AdTrace](https://github.com/adtrace)
 <br/>
