@@ -2,7 +2,7 @@ Hi I'm Nasser, a self-taught mobile developer from Iran.🇮🇷
 
 📦📲 Mobile SDK developer and Flutter Expert at [AdTrace](https://github.com/adtrace)
 <br/>
-👨🏻‍💼 Team lead and Techer
+👨🏻‍💼 Team lead and Teacher
 <br/>
 💙Dart & Flutter💙 + ❤️Java & Android❤️ + 🧡Swift + iOS🧡
 <br/>
